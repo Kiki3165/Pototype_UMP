@@ -74,6 +74,8 @@ p {
 }
 
 footer {
+    background-image: url(images/oleron.png);
+    background-size: 320px;
     background-color: #333;
     color: #fff;
     text-align: center;
